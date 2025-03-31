@@ -1,6 +1,6 @@
 
 
-# Polaris Subnet (Compute) – README
+# Polaris Subnet (Compute-NETUID 49) – README
 
 ## Subnet Purpose and Objectives
 
